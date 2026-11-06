@@ -1,29 +1,28 @@
-# SwiftPM/Xcode workspace state
+# macOS / editor metadata
+.DS_Store
+._*
+__MACOSX/
+*.swp
+*~
+
+# SwiftPM and Xcode local state
 .build/
 .swiftpm/
 DerivedData/
-*.xcuserstate
-xcuserdata/
-
-# Host-specific filesystem artifacts
-.DS_Store
-.AppleDouble
-._*
-
-# Built SDK binaries and release archives are hosted separately
-*.xcframework/
 *.xcarchive/
-*.xcframework.zip
-*.xcframework-*.zip
+*.xcresult/
 *.dSYM/
 
-# Never commit private runtime configuration or credentials
+# Binary SDK artifacts are hosted by SpeechTiles, not in this GitHub repository
+*.xcframework/
+*.xcframework.zip
+*.xcframework-*.zip
+
+# Credentials / host configuration — never publish
+.netrc
 .env
 .env.*
-Credentials.php
-config.php
 *.p12
 *.mobileprovision
-*.pem
-*.key
-
+*Credentials.php
+config.php
