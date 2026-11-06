@@ -1,0 +1,86 @@
+SpeechTiles Andamento — STConversation SDK
+Proprietary Software — Evaluation License Agreement
+Copyright © 2026 Speech Tiles, LLC. All rights reserved.
+
+The agreement reproduced below is the SDK Evaluation License Agreement
+published by SpeechTiles with an effective date of October 27, 2026.
+The agreement expressly requires acceptance. Publishing it in this GitHub
+repository does not, by itself, establish a recipient's acceptance.
+
+To obtain evaluation rights, review and expressly accept the SDK Evaluation
+License Agreement through the SpeechTiles Developer Portal:
+https://speechtiles.com/legal/sdk-evaluation-license/
+
+An existing written commercial agreement may govern in place of this
+evaluation agreement to the extent that it expressly supersedes it.
+Section 14 of the evaluation agreement governs accepted versions.
+
+======================================================================
+
+SpeechTiles SDK Evaluation License Agreement
+
+Effective October 27, 2026
+
+This SDK Evaluation License Agreement (“Agreement”) is between Speech Tiles, LLC, a Delaware limited liability company (“SpeechTiles”), and the person or entity accepting it (“Licensee,” “you”). If you accept for an organization, you represent that you have authority to bind it. By selecting “Accept and Download SDK,” or otherwise expressly accepting this Agreement, you agree to its terms. If you disagree, do not download or use the SDK.
+
+1. Definitions
+
+“SDK” means the SpeechTiles frameworks, binary packages, libraries, development tools, sample code, and associated proprietary materials supplied for evaluation, including updates supplied under this Agreement. “Documentation” means associated technical and reference materials. “Evaluation Application” means an application or prototype you create using the SDK for a permitted evaluation. Applicable third-party component licenses and notices remain in force.
+
+2. Limited evaluation license
+
+Subject to compliance with this Agreement, SpeechTiles grants Licensee a limited, nonexclusive, nontransferable, nonsublicensable license to install, copy as reasonably necessary, and use the SDK solely for internal evaluation, development of prototypes, compatibility and performance testing, and controlled demonstrations to authorized personnel and prospective enterprise customers evaluating potential adoption. Reasonable use on multiple development computers, simulators, and physical test devices is permitted. Authorized employees and contractors may participate on Licensee's behalf under appropriate confidentiality and use restrictions; Licensee remains responsible for their compliance.
+
+A controlled demonstration may show an Evaluation Application to a prospective customer but must not transfer the SDK or permit that customer to use or retain an SDK-containing application outside the controlled demonstration. No public distribution, app-store distribution, production operation, customer deployment, or commercial provision of SDK-enabled functionality is authorized. Those activities require a separate written commercial agreement.
+
+3. Restrictions
+
+Except where applicable law expressly prohibits a restriction, Licensee must not: (a) distribute, sublicense, sell, rent, or transfer the SDK or an SDK-containing Evaluation Application to the public or third parties outside permitted controlled demonstrations; (b) use the SDK in production or provide SDK-enabled services to end users; (c) reverse engineer, decompile, or disassemble proprietary SDK implementation to discover source code or algorithms; (d) remove proprietary notices; (e) circumvent licensing, access, or security controls; or (f) use SpeechTiles' proprietary SDK implementation, confidential information, or misappropriated technology to develop a competing SDK or developer platform. This Agreement does not prohibit independent development, legitimate competitive evaluation, or lawful competition without misuse of SpeechTiles' protected materials.
+
+4. Benchmarks and evaluation findings
+
+Licensee may measure, compare, and truthfully publish independently obtained performance or compatibility results without prior SpeechTiles approval, provided the publication identifies relevant test conditions and SDK version, does not disclose confidential information, and does not misleadingly imply SpeechTiles' sponsorship or endorsement.
+
+5. Intellectual property and feedback
+
+SpeechTiles and its licensors retain all right, title, and interest in the SDK, Documentation, underlying technology, and associated copyrights, trademarks, trade secrets, patent applications, and patents that may issue. Licensee retains rights in independently developed applications, content, and source code, excluding SpeechTiles' SDK and protected technology. No license to patents, trademarks, or other intellectual property is granted beyond rights necessarily included in the express evaluation license. Licensee may accurately identify SpeechTiles and its products but may not imply endorsement or misuse branding. SpeechTiles may use voluntary product suggestions and feedback without compensation, provided this does not transfer ownership of Licensee's application code or authorize disclosure of Licensee's confidential support materials.
+
+6. Confidentiality
+
+“Confidential Information” means nonpublic technical, business, or other proprietary information disclosed by SpeechTiles that is marked confidential or reasonably understood as confidential under the circumstances. Licensee shall protect it with reasonable care, use it only for authorized evaluation, and disclose it only to personnel or advisers with a legitimate need to know and appropriate confidentiality obligations. Confidential Information excludes information lawfully public without breach, previously known without duty, independently developed without use of protected information, or lawfully obtained from another source without restriction. Public documentation is not confidential solely because it describes the SDK. Legally compelled disclosure is permitted with advance notice where lawful and practical. These duties continue while information remains confidential, and trade secrets for as long as they qualify for protection under applicable law.
+
+7. Ninety-day term and extensions
+
+The evaluation license begins on Licensee's first acceptance of this Agreement and expires 90 calendar days later unless terminated sooner or extended in writing by SpeechTiles. Later SDK downloads, updates, or creation of another account do not restart the evaluation period. Any extension is discretionary, must be confirmed in writing (including email from support@speechtiles.com), and does not grant production or distribution rights. SpeechTiles does not promise extensions. Account access, documentation, and support communications may remain available after SDK evaluation rights expire, but SDK use must stop unless another valid license applies. Expiration of contractual rights does not represent a promise that SDK software automatically disables itself.
+
+8. Suspension, termination, and effect
+
+SpeechTiles may suspend or terminate this Agreement for material breach, legal compliance, or security risk. When appropriate and practical, SpeechTiles will give notice and a reasonable opportunity to cure an ordinary correctable breach. It may terminate immediately for unauthorized SDK distribution, deliberate circumvention of licensing controls, serious intellectual property misuse, or other serious violations. Licensee may end evaluation at any time. Upon expiration or termination, Licensee must stop using the SDK and remove it from active development and deployment systems; limited copies retained solely for legally required archives or routine backups remain subject to nonuse and confidentiality obligations. Provisions concerning ownership, confidentiality, accrued obligations, disclaimers, liability, disputes, and other terms intended by nature to survive will survive.
+
+9. Support submissions and third-party services
+
+Technical questions, logs, screenshots, and submitted code are handled under the Developer Account Terms and Privacy Policy; submission does not transfer ownership. SpeechTiles may provide updates or support at its discretion but has no obligation to do so absent a separate written commitment. Apple and other third-party services and components may be subject to their own terms, permissions, and licenses. Licensee must preserve applicable third-party notices.
+
+10. Responsible evaluation
+
+Licensee is responsible for appropriate notices, permissions, and lawful handling of data processed by its Evaluation Applications, including microphone access, speech recognition, and any third-party services it enables. The SDK may rely on Apple platform features; this Agreement does not assert that SpeechTiles receives application audio or transcripts. Evaluation use does not imply certification or approval for regulated, safety-critical, medical, emergency, or other high-risk applications. Government or regulated-industry production use and special procurement or security commitments require separate written terms. Where applicable, the SDK is commercial computer software licensed only with the rights expressly provided by this Agreement, subject to mandatory government procurement law.
+
+11. Disclaimer
+
+THE SDK IS PROVIDED FOR EVALUATION “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, SPEECHTILES DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE SDK MAY CONTAIN DEFECTS AND IS NOT LICENSED FOR PRODUCTION OR SAFETY-CRITICAL USE UNDER THIS AGREEMENT. NONWAIVABLE RIGHTS REMAIN UNAFFECTED.
+
+12. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER PARTY IS LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES OR LOST PROFITS ARISING OUT OF THIS AGREEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, SPEECHTILES' TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THIS FREE EVALUATION AGREEMENT WILL NOT EXCEED US $100. THIS CAP DOES NOT LIMIT LIABILITY TO THE EXTENT A LIMITATION IS PROHIBITED BY LAW. THE LIMITATIONS AND EXCLUSIONS IN THIS SECTION DO NOT LIMIT LIABILITY FOR A PARTY'S INTENTIONAL MISCONDUCT, BREACH OF CONFIDENTIALITY OBLIGATIONS, OR INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY'S INTELLECTUAL PROPERTY RIGHTS.
+
+13. Export and legal compliance
+
+Licensee must comply with applicable U.S. export-control and sanctions laws and applicable local laws. Licensee may not access, export, reexport, transfer, or use the SDK where prohibited by law. SpeechTiles may restrict access where necessary for compliance. International evaluation is permitted where lawful; this clause does not replace required screening or export classification procedures.
+
+14. Changes and accepted version
+
+The version of this Agreement accepted by Licensee governs the applicable 90-day evaluation unless the parties agree otherwise in writing or mandatory law requires a change. Material changes requiring renewed agreement will be presented for acceptance. SpeechTiles will preserve an archived copy of the accepted text and its acceptance record.
+
+15. Governing law, notices, and general terms
+
+Delaware law governs this Agreement, without regard to conflicts principles, except where federal law controls. Subject to mandatory law, disputes must be brought exclusively in Delaware state or federal courts, and the parties consent to their jurisdiction. Legal and licensing notices to SpeechTiles may be emailed to support@speechtiles.com; notices to Licensee may be sent to the account email. This Agreement is the entire agreement for SDK evaluation, except for third-party licenses and any written agreement expressly superseding it. Invalid provisions are severable to the extent lawful; failure to enforce is not waiver; assignment by Licensee requires SpeechTiles' prior written consent, except where mandatory law provides otherwise.
