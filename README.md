@@ -6,7 +6,7 @@ This public GitHub repository is the **Production Swift Package Manager distribu
 
 ## Licensing — please read before installing or using
 
-**Public availability is not a grant of commercial or unrestricted use rights.** `STConversation` is proprietary software owned by Speech Tiles, LLC. Evaluation requires **express acceptance** of the [SpeechTiles SDK Evaluation License Agreement](https://speechtiles.com/legal/sdk-evaluation-license/) through the [SpeechTiles Developer Portal](https://speechtiles.com/developer/), or another separately valid written license.
+**Public availability is not a grant of commercial or unrestricted use rights.** `STConversation` is proprietary software owned by Speech Tiles, LLC. Evaluation requires **express acceptance** of the [SpeechTiles SDK Evaluation License Agreement](https://speechtiles.com/legal/sdk-evaluation-license/) through the [SpeechTiles Developer Portal](https://speechtiles.com/developers/), or another separately valid written license.
 
 Under the published SDK Evaluation License Agreement (effective October 27, 2026), evaluation rights last **90 calendar days from first acceptance** and cover internal evaluation, prototypes, compatibility/performance testing, and permitted controlled demonstrations. **Production use, app-store distribution, customer deployment, or provision of SDK-enabled commercial services requires a separate written commercial agreement.** Re-downloading the package or updating its version does not restart an evaluation term. Refer to [LICENSE](LICENSE) for the full evaluation agreement; a separately accepted commercial agreement governs where it expressly supersedes the evaluation terms.
 
@@ -27,7 +27,7 @@ The minimums describe the binary's build settings, **not** full runtime qualific
 
 ## Installation (Xcode)
 
-1. Register or sign in at the [Developer Portal](https://speechtiles.com/developer/) and **expressly accept** the applicable SDK license before use.
+1. Register or sign in at the [Developer Portal](https://speechtiles.com/developers/) and **expressly accept** the applicable SDK license before use.
 2. Open your Xcode application project → **File → Add Package Dependencies…**
 3. Enter `https://github.com/SpeechTiles/STConversation.git`.
 4. Choose a **published semantic-version release tag** and add the library product `STConversation` to your app target.
