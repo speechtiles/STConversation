@@ -1,1 +1,29 @@
+# SwiftPM/Xcode workspace state
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Host-specific filesystem artifacts
+.DS_Store
+.AppleDouble
+._*
+
+# Built SDK binaries and release archives are hosted separately
+*.xcframework/
+*.xcarchive/
+*.xcframework.zip
+*.xcframework-*.zip
+*.dSYM/
+
+# Never commit private runtime configuration or credentials
+.env
+.env.*
+Credentials.php
+config.php
+*.p12
+*.mobileprovision
+*.pem
+*.key
 
