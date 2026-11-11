@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "STConversation",
-            url: "https://www.speechtiles.com/packages/gh/frameworks/STConversation.xcframework-V2.0.0.zip",
-            checksum: "1f9cf87bd4e2998b24541f5ff0300a18a3667c1e9ed71f65bfa327a7cf63117e"),
+            url: "https://www.speechtiles.com/packages/gh/frameworks/STConversation.xcframework-V2.0.1.zip",
+            checksum: "5804a503bb5c8a6bea384f51e6fd261c4a73fac107f722888c5857c4b0d1eada"),
     ]
 )
